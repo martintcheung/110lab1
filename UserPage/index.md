@@ -23,8 +23,11 @@ Some of my non-STEM hobbies include:
 
 ### Goals
 [x] Learn the ins and outs of data structures and when/how to use them
+
 [x] Learn multiple programming languages
+
 [ ] Complete my sophomore year at UCSD
+
 [ ] Survive COVID
 
 ![](image.jpg)
